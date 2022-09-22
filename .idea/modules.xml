@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CheckoutService/CheckoutService.iml" filepath="$PROJECT_DIR$/CheckoutService/CheckoutService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProductManagement/ProductManagement/ProductManagement.iml" filepath="$PROJECT_DIR$/../ProductManagement/ProductManagement/ProductManagement.iml" />
+    </modules>
+  </component>
+</project>
